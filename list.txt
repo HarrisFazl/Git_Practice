@@ -9,3 +9,5 @@ Meat
 HouseHold
 
 Pets
+guldang
+blacky
